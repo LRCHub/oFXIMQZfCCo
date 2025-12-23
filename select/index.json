@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "天球、彗星は夜を跨いで （Still Still Stellar ver.）",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-23T13:09:51.222528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天球、彗星は夜を跨いで - Still Still Stellar ver.",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_天球、彗星は夜を跨いで_-_Still_Still_Stellar_ver._Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天球、彗星は夜を跨いで",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_天球、彗星は夜を跨いで_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天球、彗星は夜を跨いで",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/03_天球、彗星は夜を跨いで_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天球、彗星は夜を跨いで",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/04_天球、彗星は夜を跨いで_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天球、彗星は夜を跨いで",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/05_天球、彗星は夜を跨いで_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天球-彗星は夜を跨いで",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/06_天球-彗星は夜を跨いで_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天球、彗星は夜を跨いで",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_天球、彗星は夜を跨いで_星街すいせい.txt"
+    }
+  ]
+}
